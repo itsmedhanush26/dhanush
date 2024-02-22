@@ -1,0 +1,61 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+.frontimg {
+  position: absolute;
+  overflow: hidden;
+}
+ul {
+  list-style: none;
+  display: flex;
+  /* gap: 10px; */
+}
+nav {
+  background-color: black;
+  position: relative;
+  padding: 1px;
+  top: 0px;
+}
+.main {
+  font-style: italic;
+  color: white;
+
+  padding: 15px;
+}
+.submain {
+  font-style: italic;
+  color: white;
+
+  padding: 15px;
+  margin-left: 480px;
+}
+.mass {
+  font-style: italic;
+  color: white;
+
+  padding: 15px;
+}
+
+.content {
+  position: relative;
+  font-size: 25px;
+  margin-left: 820px;
+  margin-top: 400px;
+  color: black;
+  /* border: 2px black; */
+}
+.gandi {
+  position: relative;
+  margin-left: 900px;
+  bottom: 390px;
+}
+.gandhi {
+  margin-left: 190px;
+}
+nav,
+ul,
+li,
+a {
+  text-decoration: none;
+}
